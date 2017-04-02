@@ -1,5 +1,5 @@
 {
-  "name": "sb-admin-angular4-bootstrap4",
+  "name": "angular4-bootstrap4-admin",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -7,8 +7,7 @@
     "start": "ng serve --ec=true",
     "build": "ng build",
     "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
+    "lint": "ng lint"
   },
   "private": true,
   "dependencies": {
@@ -21,6 +20,7 @@
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
     "@ng-bootstrap/ng-bootstrap": "^1.0.0-alpha.22",
+    "bootstrap": "^4.0.0-alpha.6",
     "core-js": "^2.4.1",
     "font-awesome": "^4.7.0",
     "ionicons": "^3.0.0",
